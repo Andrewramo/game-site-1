@@ -94,7 +94,7 @@ a.navbar-brand:hover {
 header {
     /* height: 100vh; */
     padding-block: 190px 64px;
-    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.85) 0% 100%), url(/images/hero-bg.jpg);
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.85) 0% 100%), url(../images/hero-bg.jpg);
     background-position: center center;
     background-size: cover;
     background-attachment: fixed;
@@ -998,4 +998,5 @@ ul {
 
 .help-links li:hover {
     color: #CBFE1C;
+
 }
