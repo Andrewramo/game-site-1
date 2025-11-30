@@ -1,0 +1,68 @@
+@media screen and (min-width:1200px) {
+    .head-text h1 {
+        font-family: "Days one", sans-serif;
+        font-size: 3.75rem;
+        font-weight: 700;
+        color: #F1F1F1;
+    }
+
+    .head-text p {
+        font-size: 1rem;
+        line-height: 1.625;
+        color: #d1d5dc;
+    }
+
+    .head-text {
+        text-align: start;
+    }
+
+    header {
+        height: 100vh;
+    }
+
+    .head-btn button {
+        padding: 16px 32px;
+        width: auto;
+    }
+
+    .head-title h2 {
+        font-size: 3rem;
+        font-weight: 700;
+        color: white;
+        font-family: "Days one", sans-serif;
+    }
+
+    #more-games .head-title h3 {
+        font-size: 3rem;
+    }
+
+    .game-type {
+        width: 290px;
+        height: 290px;
+    }
+
+    .type-icon {
+        width: 64px;
+        height: 64px;
+        margin-bottom: 16px;
+        font-size: 24px;
+    }
+
+    .game-item {
+        padding: 24px;
+    }
+
+    .game-item h4 {
+        font-size: 1.25rem;
+    }
+
+    .game-item img {
+        width: 100%;
+        height: 338px;
+    }
+
+    .inner img {
+        width: auto;
+        height: auto;
+    }
+}
